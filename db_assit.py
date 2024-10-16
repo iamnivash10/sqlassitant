@@ -16,7 +16,7 @@ def get_answer(question):
     temperature=0.0,
     max_retries=2,)
    db_user = "root"
-   db_password = "7639nivash10"
+   db_password = "*******"
    db_host = "localhost"
    db_name = "atliq_tshirts"
 
